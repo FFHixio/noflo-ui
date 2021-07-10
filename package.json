@@ -80,7 +80,7 @@
     "noflo-component-loader": "^0.4.1",
     "puppeteer": "^6.0.0",
     "query-selector-shadow-dom": "^0.8.0",
-    "sinon": "^9.2.4",
+    "sinon": "^11.1.1",
     "style-loader": "^2.0.0",
     "syn": "^0.15.0",
     "webpack": "^4.46.0",
